@@ -1,0 +1,43 @@
+body {
+	
+	background-color: navy;
+	background-image: url("../images/snow2.gif");
+	background-size: 100%;
+	color: black;
+
+}
+
+.jumbotron {
+	background-image: url("../images/express.jpg");
+	background-color: black;
+	background-size: 100%;
+	background-size: cover;
+    
+    padding-bottom: 20%;
+
+	background-repeat: no-repeat;
+	color: white;
+	
+}
+
+
+img {
+width: 40%;
+margin: 10px;
+}
+
+button {
+	margin: 5px;
+	padding: 3px;
+	color: purple;
+	border-radius: 12px;
+	font-size: 18px;
+}
+
+#sports-form{
+	color: black;
+}
+
+.panel-heading {
+	background-color: blue;
+}
